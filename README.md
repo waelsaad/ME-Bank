@@ -5,7 +5,7 @@ ME Bank
 
 Tasks worked on:
 
-- Create a completly fresh empty project
+- Create a completly fresh empty project and developed from scratch.
 - Integrate Quick and Nimble using built in Swift Package Manager in Xcode 11
 - Architect and implement the app using clean MVVM Design Pattern with Swift 5.0
 - Structure the application code folders
