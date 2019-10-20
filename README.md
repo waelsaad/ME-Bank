@@ -37,3 +37,73 @@ Please Note:
 - The dates and pics of the random users getting displayed are correct but the public API uses crazy dates for date of birth as well as may use the same pics to different users.
 ================
 
+I researched and found multiple publically API avilable but this is the only one that is the closest vs FaceBook or Instagram
+
+Documentation for the Random User Generator API
+https://randomuser.me/documentation
+
+This is a sample JSON file
+
+
+{ 
+   "results":[ 
+      { 
+         "gender":"male",
+         "name":{ 
+            "title":"mr",
+            "first":"clésio",
+            "last":"pereira"
+         },
+         "location":{ 
+            "street":"888 rua vinte e dois ",
+            "city":"muriaé",
+            "state":"tocantins",
+            "postcode":29620,
+            "coordinates":{ 
+               "latitude":"-73.0778",
+               "longitude":"-86.9292"
+            },
+            "timezone":{ 
+               "offset":"+9:00",
+               "description":"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+            }
+         },
+         "email":"clésio.pereira@example.com",
+         "login":{ 
+            "uuid":"3be1e9f3-7252-4c50-969c-071fab797cfa",
+            "username":"purplerabbit124",
+            "password":"gone",
+            "salt":"BkukXtaf",
+            "md5":"a35a898ccf9adc55a422e66422e3e928",
+            "sha1":"38cfd210e27fc7b5e7010ca0c9abb1903e5fe899",
+            "sha256":"9b3e7743cbaeee069329834704ac05bb614d83d45d78b2d435be7d1fd63bb736"
+         },
+         "dob":{ 
+            "date":"1970-10-30T11:48:13Z",
+            "age":48
+         },
+         "registered":{ 
+            "date":"2003-12-13T20:27:13Z",
+            "age":15
+         },
+         "phone":"(67) 4648-9696",
+         "cell":"(15) 5516-3313",
+         "id":{ 
+            "name":"",
+            "value":null
+         },
+         "picture":{ 
+            "large":"https://randomuser.me/api/portraits/men/96.jpg",
+            "medium":"https://randomuser.me/api/portraits/med/men/96.jpg",
+            "thumbnail":"https://randomuser.me/api/portraits/thumb/men/96.jpg"
+         },
+         "nat":"BR"
+      }
+   ],
+   "info":{ 
+      "seed":"ed3560a239961014",
+      "results":1,
+      "page":1,
+      "version":"1.2"
+   }
+}
