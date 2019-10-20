@@ -45,7 +45,8 @@ https://randomuser.me/documentation
 # Instructions
 - Simply open the workspace, because Quick and Nimble are integrated using the native Swift Package Manager just wait a few seconds until it automatically fetches the libraries on the bottom left you will notice a loading indicator. Its pretty cool. 
 
-This is a sample JSON file
+# Sample JSON file
+
 
 ```json
 
