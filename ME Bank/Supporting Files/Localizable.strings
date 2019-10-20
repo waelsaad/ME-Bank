@@ -1,0 +1,18 @@
+
+// MARK: EmployeeList
+
+"EMPLOYEELIST.NAVIGATION.TITLE" = "Employee List";
+
+
+// MARK: Message
+
+"EMPLOYEELIST.ALERT.CONFIRM" = "Ok";
+"EMPLOYEELIST.ALERT.TITLE" = "Me Bank";
+
+// MARK: API Error Message
+
+"EMPLOYEELIST.API.ERROR.API.ERROR" = "Could not reach API successfully";
+"EMPLOYEELIST.API.ERROR.INVALID.ENDPOINT" = "Could not build propper URL";
+"EMPLOYEELIST.API.ERROR.INVALID.RESPONSE" = "Could not get propper response";
+"EMPLOYEELIST.API.ERROR.NO.DATA" = "Could not find data";
+"EMPLOYEELIST.API.ERROR.DECODE.ERROR" = "Could not decode data";
