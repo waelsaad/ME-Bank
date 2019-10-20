@@ -37,7 +37,7 @@ Please Note:
 - The dates and pics of the random users getting displayed are correct but the public API uses crazy dates for date of birth as well as may use the same pics to different users.
 ================
 
-I researched and found multiple publically API avilable but this is the only one that is the closest vs FaceBook or Instagram
+I researched and found multiple publica APIs avilable but this is the only one that is the closest to the one I read about in the pdf attached in my email. I decoded only what is required to complete the code challange.
 
 Documentation for the Random User Generator API
 https://randomuser.me/documentation
