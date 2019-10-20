@@ -44,6 +44,7 @@ https://randomuser.me/documentation
 
 This is a sample JSON file
 
+```json
 
 { 
    "results":[ 
@@ -107,3 +108,4 @@ This is a sample JSON file
       "version":"1.2"
    }
 }
+```
