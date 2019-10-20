@@ -58,7 +58,6 @@ class EmployeeListViewModel: EmployeeListViewModelType {
         }
         
         pageNumber = data.info.page
-        print (pageNumber)
     }
 
     func displayError(error: APIError) {
